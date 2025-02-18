@@ -1,23 +1,4 @@
-print("welcome user !!")
-print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')print('hello')
-print('hello')
-print('hello')
-print('hello')
+
 from index import add_numbers, concat_strings
 
 def test_add_numbers():
@@ -34,5 +15,4 @@ if __name__ == "__main__":
     test_add_numbers()
     test_concat_strings()
     print("All tests passed.")
-#testing pull request...
-# ;;;;;;;;;;;;;;;;;;
+
